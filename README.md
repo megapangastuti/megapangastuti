@@ -1,6 +1,6 @@
 <!-- ## 👋 Hi there, I'm Mega Pangastuti! -->
 
-![Mega Pangastuti](/megapangastuti/img/megapangastuti-github-header-banner.png)
+![Mega Pangastuti](/img/megapangastuti-github-header-banner.png)
 
 Welcome to my GitHub profile! I'm a passionate tech enthusiast, eager to learn and grow in the world of software development.
 
@@ -68,6 +68,22 @@ I'm actively learning and building projects using:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mega_Pangastuti-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/megapangastuti)
 [![Instagram](https://img.shields.io/badge/Instagram-@megapangastuti-E4405F?style=flat&logo=instagram)](https://instagram.com/mega.pangastuti)
+
+---
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/megapangastuti/megapangastuti/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/megapangastuti/megapangastuti/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/megapangastuti/megapangastuti/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/megapangastuti/megapangastuti/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
