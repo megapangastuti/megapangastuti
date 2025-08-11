@@ -64,8 +64,6 @@ I'm actively learning and building projects using:
 
 ## 🌐 Connect With Me
 
-<!-- Ganti dengan profil kamu sendiri jika sudah punya -->
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mega_Pangastuti-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/megapangastuti)
 [![Instagram](https://img.shields.io/badge/Instagram-@megapangastuti-E4405F?style=flat&logo=instagram)](https://instagram.com/mega.pangastuti)
 
@@ -79,9 +77,9 @@ I'm actively learning and building projects using:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/megapangastuti/megapangastuti/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<!-- ###
 
-<img src="https://raw.githubusercontent.com/megapangastuti/megapangastuti/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/megapangastuti/megapangastuti/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
